@@ -1,0 +1,8 @@
+-   id: web-ext-linter
+    name: web-ext
+    description: web-ext linter
+    entry: web-ext
+    language: node
+    types: [javascript]
+    args: []
+    require_serail: false
