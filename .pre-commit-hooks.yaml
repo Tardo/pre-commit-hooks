@@ -1,8 +1,7 @@
--   id: web-ext-linter
+-   id: web-ext
     name: web-ext
-    description: web-ext linter
+    description: web-ext
     entry: web-ext
     language: node
     types: [javascript]
-    args: []
-    require_serail: false
+    pass_filenames: false
