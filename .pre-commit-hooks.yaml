@@ -5,3 +5,4 @@
     language: node
     types: [javascript]
     pass_filenames: false
+    additional_dependencies: ["web-ext"]

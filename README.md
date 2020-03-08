@@ -1,3 +1,3 @@
 Custom pre-commit hooks
 
-- webext
+- web-ext
